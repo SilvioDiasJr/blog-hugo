@@ -1,4 +1,4 @@
-baseURL = 'https://darling-bonbon-dafc11.netlify.app/'
+baseURL = 'https://darling-bonbon-dafc11.netlify.app'
 languageCode = 'en-us'
 title = 'Hugo teste'
 theme = "hyde"
