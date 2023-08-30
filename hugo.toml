@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Hugo teste'
 theme = "hyde"
 
+[context.branch-deploy]
+command = “hugo --gc --minify -b $DEPLOY_PRIME_URL”
+
 [params]
 
 description = "Projeto teste hugo"
