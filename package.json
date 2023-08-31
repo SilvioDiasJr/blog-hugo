@@ -1,0 +1,25 @@
+{
+  "name": "hugo-teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "yarn tinacms server:start \"hugo server -D\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilvioDiasJr/blog-hugo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SilvioDiasJr/blog-hugo/issues"
+  },
+  "homepage": "https://github.com/SilvioDiasJr/blog-hugo#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.29",
+    "tinacms": "^1.5.20"
+  }
+}
