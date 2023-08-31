@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo teste</title>
-    <link>https://darling-bonbon-dafc11.netlify.app/</link>
-    <description>Recent content on Hugo teste</description>
+    <title>Posts on Hugo teste</title>
+    <link>https://darling-bonbon-dafc11.netlify.app/posts/</link>
+    <description>Recent content in Posts on Hugo teste</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://darling-bonbon-dafc11.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://darling-bonbon-dafc11.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023 08 31 Teste</title>
       <link>https://darling-bonbon-dafc11.netlify.app/posts/2023/teste/</link>
